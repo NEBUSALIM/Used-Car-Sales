@@ -1,0 +1,32 @@
+The feature importance analysis on used car data gave the following result.
+
+         Feature  Importance
+0         region    0.641465
+3          model    0.139518
+7       odometer    0.068579
+1           year    0.056033
+14         state    0.022772
+13   paint_color    0.021031
+4      condition    0.019948
+12          type    0.011235
+5      cylinders    0.008004
+2   manufacturer    0.005864
+10         drive    0.002530
+11          size    0.002135
+6           fuel    0.000667
+9   transmission    0.000147
+8   title_status    0.000071
+
+The top 4 features that influence the price of used cars are explained below.
+
+1. Region - 64.15 %
+The geographical location, or region, emerged as the most influential factor affecting used car prices. This suggests that pricing dynamics can vary significantly based on the area in which the car is being sold.
+
+2. Model - 13.95 %
+The specific model of the car also plays a substantial role in determining its price.
+
+3. Odometer - 6.86 %
+The mileage, as indicated by the odometer reading, is a critical factor influencing the price of a used car.
+
+4. Year - 5.6 %
+The manufacturing year of the car is a significant determinant of its price.
